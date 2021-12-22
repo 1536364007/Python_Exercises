@@ -61,3 +61,5 @@ def final_result():
 
 
 final_result()
+# The finished version is released and it is called 'The_game_V2(finished).py'.
+# Maybe you can go and have a look of that file.
